@@ -1,5 +1,8 @@
 ### Olá, eu sou a Bruna França!
 
+<div align="center">
+  <a href="https://github.com/brunafranc4">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunafranc4&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
 
   
   <div style="display: inline_block"><br>
